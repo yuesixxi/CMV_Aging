@@ -1,4 +1,4 @@
-# CMV analysis pipeline for data processing and downstream analysis.
+# singlecell age clock pipeline for data processing.
 # Copyright (C) 2026
 # - Yuesi Xi, Helmholtz Centre for Infection Research (HZI)
 # Licensed under the Apache License, Version 2.0 (the "License");
